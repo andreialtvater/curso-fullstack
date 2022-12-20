@@ -1,0 +1,19 @@
+body{
+    background: #dfdfdf;
+}
+
+p{
+    color: #222222;
+}
+
+.fotoPrincipal{
+    width: 200px;
+}
+
+#formacaoPrincipal{
+    color: yellow;
+}
+
+#tituloPrincipal{
+    color: yellow;
+}

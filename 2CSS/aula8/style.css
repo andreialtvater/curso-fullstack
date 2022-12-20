@@ -1,0 +1,36 @@
+body{
+    background: #dfdfdfdf;
+}
+
+#formacaoPrincipal{
+    color: black;
+}
+
+#tituloPrincipal{
+    color: black;
+}
+
+.fotoPrincipal{
+    width: 200px; /*tamando da imagem*/
+    border: 2px solid #ffffff; /*shorthand*/
+    border-radius: 50%; /*borda redonda*/
+    margin: 30px; /*espaçamento(margem) da imagem*/
+    box-shadow: 10px 3px 10px #5c4c4c;
+    /* padding: 10px; espaçamento(interno da margem) da imagem */
+}
+
+p{
+    color: rgb(34, 34, 34);
+}
+
+#formacaoComplementar{
+    color: red;
+}
+
+#idiomas{
+    color: blue;
+}
+
+#teste{
+    color: violet;
+}

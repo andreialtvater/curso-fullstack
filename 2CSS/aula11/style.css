@@ -1,0 +1,35 @@
+body{
+    background: #dfdfdfdf;
+    font-family: 'Raleway', sans-serif;
+    color: rgb(34, 34, 34);
+}
+
+.container{
+    width: 900px;
+    margin: 0 auto;
+}
+
+h1{
+    margin-bottom: 0; /*diminuir o espaçamento de BAIXO do texto*/
+    letter-spacing: -1px; /*diminuir o espeçamento entre as letras*/
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 40px;
+}
+
+h2{
+    margin-top: 0; /*diminuir o espaçamento do TOPO texto*/
+    font-style: italic;
+    color: #8d8888;
+    font-weight: 100; /*Espessura da letra*/
+    letter-spacing: -1px;/*diminuir o espeçamento entre as letras*/
+}
+
+.fotoPrincipal{
+    width: 200px; /*tamando da imagem*/
+    border: 2px solid #ffffff; /*shorthand*/
+    border-radius: 50%; /*borda redonda*/
+    margin: 30px; /*espaçamento(margem) da imagem*/
+    box-shadow: 10px 3px 10px #5c4c4c;
+    /* padding: 10px; espaçamento(interno da margem) da imagem */
+}
+
